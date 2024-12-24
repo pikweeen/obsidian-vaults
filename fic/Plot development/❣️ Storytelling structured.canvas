@@ -22,9 +22,8 @@
 		{"id":"65cb3f6ae27f34ff","type":"text","text":"George learns from Illumina","x":-2640,"y":-340,"width":319,"height":53,"color":"5"},
 		{"id":"f2972123eef4e64c","type":"text","text":"Dream reminds himself of his objective","x":-1940,"y":-460,"width":269,"height":80,"color":"4"},
 		{"id":"c5f41644d8232e18","type":"text","text":"Dream struggles in the Nether","x":-1920,"y":-540,"width":250,"height":60,"color":"4"},
-		{"id":"5693d6a2677dc90f","type":"text","text":"George meets Maia","x":-2640,"y":-1320,"width":240,"height":60,"color":"5"},
 		{"id":"67249d11b7ebdd7a","type":"file","file":"Specific scenes/The incident.md","x":-2640,"y":-80,"width":260,"height":80,"color":"5"},
-		{"id":"11127e43ea18c600","type":"text","text":"Dream comes to town","x":-2380,"y":-1320,"width":250,"height":60,"color":"5"},
+		{"id":"11127e43ea18c600","type":"text","text":"[[Dream appears]]","x":-2380,"y":-1320,"width":250,"height":60,"color":"5"},
 		{"id":"fc23ceec958f56da","type":"text","text":"Dinner at Maia household event","x":-2100,"y":-1320,"width":240,"height":60,"color":"5"},
 		{"id":"5f6e7c7d2bce2456","type":"text","text":"George gets with Maia, thinks about Dream","x":-1840,"y":-1320,"width":279,"height":60,"color":"5"},
 		{"id":"8e2141e4710f8730","type":"text","text":"George sleeps with Maia, escapes with Dream","x":-1540,"y":-1320,"width":300,"height":60,"color":"5"},
@@ -33,7 +32,14 @@
 		{"id":"c9c04fdb37d68c11","type":"text","text":"Callahan removes Dream's eye. Dream and George start working for him","x":-360,"y":-1320,"width":300,"height":100,"color":"5"},
 		{"id":"305437b80dc7dcd7","type":"text","text":"Dream and George have bad tensions in the homestead.","x":-20,"y":-1320,"width":319,"height":79,"color":"5"},
 		{"id":"3350cd97a244e10b","type":"text","text":"Dream learns to fight better, and it does help. It gives him agency","x":0,"y":-400,"width":311,"height":90,"color":"4"},
-		{"id":"8c0465283621e7ae","x":-2340,"y":-80,"width":250,"height":60,"color":"5","type":"text","text":"Stuck alone together on ecstasy"}
+		{"id":"8c0465283621e7ae","type":"text","text":"Stuck alone together on ecstasy","x":-2340,"y":-80,"width":250,"height":60,"color":"5"},
+		{"id":"8a578eeefd67654a","type":"file","file":"Specific scenes/A - Prologue/George meets Maia.md","x":-2640,"y":-1320,"width":240,"height":100,"color":"5"},
+		{"id":"23fc64448b0df417","type":"text","text":"![](https://i.imgur.com/6ByVjfA.png)","x":-1400,"y":-1460,"width":160,"height":120},
+		{"id":"1043c2c5180bf889","type":"text","text":"![](https://i.imgur.com/6ByVjfA.png)","x":-540,"y":-1460,"width":160,"height":120},
+		{"id":"143b6393a9def712","type":"text","text":"![](https://i.imgur.com/6ByVjfA.png)","x":-2100,"y":-1040,"width":160,"height":120},
+		{"id":"dacda493c278e064","type":"text","text":"![](https://i.imgur.com/6ByVjfA.png)","x":-2480,"y":-540,"width":160,"height":120,"color":"5"},
+		{"id":"6b0dff3c51b4c1c1","type":"text","text":"![](https://i.imgur.com/6ByVjfA.png)","x":-1520,"y":-540,"width":160,"height":120,"color":"4"},
+		{"id":"a069cf009c37b235","type":"text","text":"![](https://i.imgur.com/6ByVjfA.png)","x":-2540,"y":-220,"width":160,"height":120}
 	],
 	"edges":[
 		{"id":"93a3c13a87e62f7b","fromNode":"86f9dd6c658d4fe0","fromSide":"right","toNode":"9439fbfcb9f9e48c","toSide":"left"},

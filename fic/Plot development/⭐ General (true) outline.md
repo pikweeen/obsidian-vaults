@@ -1,7 +1,9 @@
 So what we’re picking from all of that is that,,
 
 - George’s mom is pro Maia, she wants them to get together.
-    
+
+	- [[George meets Maia]]
+	    
 - Maia’s mom welcomes Dream and then kicks him out once they find out that he went to the Nether. [[First outline of beginning#^0121a7|Dramatically]].
     - Dream wants Maia as his travel partner, but she refuses, and the drama happens.
 - Dream lives as a bum in town for a few weeks. In that time, his face covered in bandages except for eyes and mouth is really striking to George.
