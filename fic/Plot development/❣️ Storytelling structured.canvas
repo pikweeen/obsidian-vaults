@@ -39,7 +39,9 @@
 		{"id":"143b6393a9def712","type":"text","text":"![](https://i.imgur.com/6ByVjfA.png)","x":-2100,"y":-1040,"width":160,"height":120},
 		{"id":"dacda493c278e064","type":"text","text":"![](https://i.imgur.com/6ByVjfA.png)","x":-2480,"y":-540,"width":160,"height":120,"color":"5"},
 		{"id":"6b0dff3c51b4c1c1","type":"text","text":"![](https://i.imgur.com/6ByVjfA.png)","x":-1520,"y":-540,"width":160,"height":120,"color":"4"},
-		{"id":"a069cf009c37b235","type":"text","text":"![](https://i.imgur.com/6ByVjfA.png)","x":-2540,"y":-220,"width":160,"height":120}
+		{"id":"a069cf009c37b235","type":"text","text":"![](https://i.imgur.com/6ByVjfA.png)","x":-2540,"y":-220,"width":160,"height":120},
+		{"id":"b45110db352c9d06","x":-2640,"y":-1180,"width":240,"height":80,"type":"file","file":"💫THE WRITING/0. prologue.md"},
+		{"id":"d348b7b8974a2bd6","x":-2380,"y":-1180,"width":440,"height":80,"type":"file","file":"💫THE WRITING/1. Maya.md"}
 	],
 	"edges":[
 		{"id":"93a3c13a87e62f7b","fromNode":"86f9dd6c658d4fe0","fromSide":"right","toNode":"9439fbfcb9f9e48c","toSide":"left"},
