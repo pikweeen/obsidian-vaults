@@ -57,6 +57,6 @@ Now that you have each of your sounds in the correct format, you can put them in
 
 Now you should have one `.assets` with its `.resource`. The `.assets`'s name should already exist in the game files, and the `.resource` should be some random shit you made up. Ideally one mod folder would have several.
 
-You can follow the [How to load a mod](#How to Load a Mod) section to check whether it worked.
+You can follow the [How to load a mod](#how-to-load-a-mod) section to check whether it worked.
 
 Have fun :)
