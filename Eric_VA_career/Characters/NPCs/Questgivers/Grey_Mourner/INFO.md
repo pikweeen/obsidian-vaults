@@ -8,12 +8,12 @@ area: Hallownest
 
 # Lines
 
-| id |  Name | Original | New --- | 
-| --- | - | --- | ----- |
-|     |     |  |  |
-|     |     |  |  |
-|     |     |  |  |
-|     |     |  |  |
+| id |  Name | Original | New --- | .assets |
+| --- | - | --- | ----- | |
+|     |     |  |  | |
+|     |     |  |  | |
+|     |     |  |  | |
+|     |     |  |  | |
 
 # Subtitles
 | id |  Name | Original | New --- | 
