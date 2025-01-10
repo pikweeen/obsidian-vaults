@@ -9,13 +9,13 @@ Essentially a **glorified texture pack!** I'm just calling it a mod because peop
 ## Required programs
 
 - **[Unity (Hub)](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe)** --- Pick a Unity Editor between version 2017 and 2021.3
-	To convert your original `.wav` to `.assets`
+	</br> To convert your original `.wav` to `.assets`
 - **[Asset Bundle Extractor](https://github.com/SeriousCache/UABE/releases/tag/v3.0-beta1)**
-	To import/export dumps on `.assets`
+	</br> To import/export dumps on `.assets`
 - **[AssetStudioGUI](https://github.com/Perfare/AssetStudio/releases)** 
-	To navigate assets and preview their contents
+	</br> To navigate assets and preview their contents
 - **An audio editor of your choice ([Audacity](https://www.audacityteam.org/download/))**
-	To create your new sounds
+	</br> To create your new sounds
 
 Assets are stored in the `hollow_knight_Data` folder in the game, **we're just touching `.assets` and `.resource` files**. Using AssetStudio you can open these `.assets` and listen to the different files.
 
@@ -37,12 +37,12 @@ Making the new files have the same names as the vanilla ones isn't necessary but
 
 1. Create a **new Unity project**.
 2. **Drag and drop your `.wav` files into the timeline, and then onto the scene**. Make sure to **do this separately for each `.assets`**. If the sounds you're changing are in three different files, you need to do this three times.
-	| Don't worry about the Camera, light source etc, they won't affect anything.
-3. Select `File > Build Settings` and **build the project**. Pick a good folder. This will generate `.assets` and `.resource` files with your things.
-4. **Rename the `.resource` to something that identifies your mod**. You should never replace the vanilla `.resource` in the game files, because other assets may depend on it.
+	</br> Don't worry about the Camera, light source etc, they won't affect anything.
+1. Select `File > Build Settings` and **build the project**. Pick a good folder. This will generate `.assets` and `.resource` files with your things.
+2. **Rename the `.resource` to something that identifies your mod**. You should never replace the vanilla `.resource` in the game files, because other assets may depend on it.
 ## 4. Fix your assets (Asset Bundle Extractor, ABE)
 
-We need to modify something in the `.assets` to reference the new name of the `.resources`, which can only be done when the asset is in txt format. 
+We need to modify something in the `.assets` to reference the new name of the `.resources`, which can only be done when the asset is in `txt` format. 
 1. **Open the `.assets` with ABE, select its contents and select `Export Dump > Dump as text file`.**
 2. This will generate as many `.txt`'s as new sounds you made. You need to **go in all of them and change the `m_Source` field to the exact name of the `.resource`** that Unity generated for you. Have fun.
 ## 5. Put your sounds into the vanilla assets (ABE)
@@ -57,6 +57,6 @@ Now that you have each of your sounds in the correct format, you can put them in
 
 Now you should have one `.assets` with its `.resource`. The `.assets`'s name should already exist in the game files, and the `.resource` should be some random shit you made up. Ideally one mod folder would have several.
 
-You can follow the [[README#How to load a mod|How to Load a Mod]] section to check whether it worked.
+You can follow the [How to load a mod](#How to Load a Mod) section to check whether it worked.
 
 Have fun :)
