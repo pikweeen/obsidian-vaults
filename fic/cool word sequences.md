@@ -1,2 +1,0 @@
-- The wind is the noise my mind is making to help me sleep
-- Pride, Fear, and the Ender Eyes.

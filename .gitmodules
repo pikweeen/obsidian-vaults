@@ -1,0 +1,3 @@
+[submodule "fic"]
+	path = fic
+	url = https://github.com/pikweeen/fanfic.git
